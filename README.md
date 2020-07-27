@@ -1,1 +1,1 @@
-Pandanime.co
+<a href="https://pandanime.co">pandanime</a>
